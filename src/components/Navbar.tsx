@@ -518,11 +518,9 @@ const styles: Record<string, React.CSSProperties> = {
     padding: "0 1.5rem",
     height: "72px",
     background: "var(--navbar-bg)",
-    borderBottom: "1px solid var(--navbar-border)",
     position: "sticky",
     top: 0,
     zIndex: 1000,
-    boxShadow: "var(--navbar-shadow)",
   },
   logoContainer: {
     display: "flex",
